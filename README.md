@@ -1,4 +1,4 @@
-# seleccion-multiple - Uso del Switch
+# selección-multiple - Uso del Switch
 
 1.- Diseñar el Algoritmo y programa, tal que dado un número entero de un digito (0 al 9), devolver el número 
 en letras.
